@@ -1,0 +1,75 @@
+
+# 🩺 Online Therapy Scheduling System
+
+An online therapy scheduling platform that allows users to book therapy sessions, manage therapist availability, and conduct secure video consultations.
+
+---
+
+## 📌 Features
+
+- 👤 User registration & login
+- 📅 Book therapy sessions easily
+- 🧑‍⚕️ Therapist availability management
+- 🔒 Secure authentication
+- 🎥 Video consultation support
+- 📱 Responsive and user-friendly UI
+
+---
+
+## 🛠️ Technologies Used
+
+- **Backend:** Python, Django
+- **Frontend:** HTML, CSS
+- **Database:** SQLite / MySQL
+- **Tools:** Django Admin, Bootstrap (optional)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Online-Therapy-Scheduling-System.git
+Navigate to the project folder:
+
+cd Online-Therapy-Scheduling-System
+Create and activate virtual environment:
+
+
+python -m venv env
+source env/bin/activate   # Windows: env\Scripts\activate
+Install required packages:
+
+
+pip install -r requirements.txt
+Run database migrations:
+
+
+python manage.py migrate
+Start the development server:
+
+
+python manage.py runserver
+Open browser and visit:
+
+
+http://127.0.0.1:8000/
+🧪 Sample Use Case
+Users can register and book therapy sessions
+
+Therapists can manage their availability
+
+Video calls enable secure online consultations
+
+🚀 Future Enhancements
+Online payment integration
+
+Email & SMS notifications
+
+Therapist ratings and reviews
+
+Admin dashboard improvements
+
+👩‍💻 Developed By
+Darthi Priya J
+Full Stack Developer
